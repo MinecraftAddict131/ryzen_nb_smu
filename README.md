@@ -35,7 +35,7 @@ MSG is the ID of service request, 6*ARGS are arguments, REP is respond of servic
 - Read back ARGs
 - Check the REP if the request proceeded sucessfuly
 
-## A table of request ID
+## A table of request IDs for MP1
 | Name | ID | Note |
 | :------| :------ | :------ |
 | TestMessage | 0x1 |  |
